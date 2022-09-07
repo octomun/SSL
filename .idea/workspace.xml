@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a9d164c-5c0b-46a4-b3f9-ee5b2d8b61c9" name="Changes" comment="SimCLR code upload">
-      <change afterPath="$PROJECT_DIR$/src/SimCLR/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimCLR/readme_img/SimCLR.pdf" afterDir="false" />
+    <list default="true" id="2a9d164c-5c0b-46a4-b3f9-ee5b2d8b61c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +43,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\answl\IdeaProjects\SSL\src\SimCLR\readme_img" />
       <recent name="C:\Users\answl\IdeaProjects\SSL\src\SimCLR" />
+      <recent name="C:\Users\answl\IdeaProjects\SSL\src\SimCLR\readme_img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662565735503</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SimCLR code upload">
+      <created>1662566809182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662566809182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
