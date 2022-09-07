@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a9d164c-5c0b-46a4-b3f9-ee5b2d8b61c9" name="Changes" comment="SimCLR code upload">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SSL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimCLR/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimCLR/train_simclr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimCLR/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimCLR/readme_img/SimCLR.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +40,12 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\answl\IdeaProjects\SSL\src\SimCLR\readme_img" />
       <recent name="C:\Users\answl\IdeaProjects\SSL\src\SimCLR" />
     </key>
   </component>
@@ -61,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662563038686</updated>
     </task>
+    <task id="LOCAL-00001" summary="SimCLR code upload">
+      <created>1662565735503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662565735503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
